@@ -65,16 +65,6 @@ class Solution:
         return rooms
 
 
-class Solution1:
-    """
-    @param rooms: m x n 2D grid
-    @return: nothing
-    """
-
-    def walls_and_gates(self, rooms):
-        pass
-
-
 rooms = [
     [2147483647, -1, 0, 2147483647],
     [2147483647, 2147483647, 2147483647, -1],
